@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(100, 80, 200);
+}
+
+#title-text {
+    width: 100dvw;
+    display: flex;
+    justify-content: center;
+}
+
+/* .picture-box {
+    width: 26rem;
+    height: 26rem;
+    border: 5px solid black;
+    display: flex;
+    background-color: rgb(200, 200, 200);
+}
+
+.picture-row {
+    width: 100dvw;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10rem;
+    padding: 0px;
+}
+
+.pc-content {
+    width: 26em;
+    height: 26em;
+} */
